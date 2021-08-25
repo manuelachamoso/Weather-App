@@ -6,7 +6,7 @@ This project is a simple weather forecast which uses some APIs to fecth data fro
 <img src = "Accepted.png">
 
 ## Useful information:
-- The API provider: [Open Weather Map Api](https://openweathermap.org/)
+- The API provider: [Open Weather Map Api](https://openweathermap.org)
 - The icons used are created by the Graphic Designer [Ashley Jager](https://github.com/manifestinteractive/weather-underground-icons).
 
 ## Skills Requirements for this project:
