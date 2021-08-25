@@ -12,7 +12,7 @@ weather.temperature = {
 }
 
 const Kelvin = 273.15;
-const key = '56711e21505f41d174ddbf4885858c64';
+const key = 'put your key here';
 
 // Check if the browser support Geolocation
 if('geolocation' in navigator) {
