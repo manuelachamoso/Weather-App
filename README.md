@@ -3,7 +3,7 @@
 This project is a simple weather forecast which uses some APIs to fecth data from the OpenWeatherMap using Geolocation. The main goal of this project is to be a sample of how to build a Weather App using APIs.
 
 ## Display
-<img src = "Accepted.png">
+<img src = "API.jpg">
 
 ## Useful information:
 - The API provider: [Open Weather Map Api](https://openweathermap.org)
